@@ -1,7 +1,7 @@
 /**
  * Ad Soyad: [Zübeyir Aslan]
  * Öğrenci No: 240541099
- * Proje: SinemaBileti
+ * Proje: SinemaBiletiSistemi
  * Tarih: [27.11.2025]
  */
 
@@ -150,4 +150,5 @@ public class SinemaBiletSistemi {
         System.out.println("ÖDENECEK TUTAR: " + sonFiyat + " TL");
     }
 }
+
 
