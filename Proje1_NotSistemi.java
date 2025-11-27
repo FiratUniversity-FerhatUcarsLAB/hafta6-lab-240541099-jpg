@@ -1,5 +1,13 @@
-  import java.util.Scanner;
-public class Proje1{
+/**
+ * Ad Soyad: [Zübeyir Aslan]
+ * Öğrenci No: 240541099
+ * Proje: NotSistemi
+ * Tarih: [27.11.2025]
+ */
+
+
+import java.util.Scanner;
+public class NotSistemi{
     
    
 
@@ -89,4 +97,5 @@ public class Proje1{
         return (ortalama >= 40) && (ortalama < 50);
     }
 }
+
 
