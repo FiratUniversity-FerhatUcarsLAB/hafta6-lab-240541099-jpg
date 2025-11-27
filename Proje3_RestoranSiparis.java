@@ -1,3 +1,14 @@
+/**
+ * Ad Soyad: [Zübeyir Aslan]
+ * Öğrenci No: 240541099
+ * Proje: RestoranSiparisSistemi
+ * Tarih: [27.11.2025]
+ */
+
+
+
+
+
 import java.util.Scanner;
 
 public class RestoranSiparisSistemi {
@@ -161,3 +172,4 @@ public class RestoranSiparisSistemi {
         return tutar * 0.10;
     }
 }
+
